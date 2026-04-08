@@ -1,4 +1,4 @@
-# 🔐 File Packer and Unpacker with Encryption — Java Utility Project
+# 🔐 File Packer & Unpacker with Encryption — Java Utility Project
 
 ![Java](https://img.shields.io/badge/Java-17%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
